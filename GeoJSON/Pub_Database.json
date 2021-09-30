@@ -1,0 +1,2293 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.910305,52.477744 ]
+    },
+    "properties": {
+    "FID":0,
+    "Shape *":"Point",
+    "OBJECTID_1":42,
+    "TARGET_FID":5571,
+    "Field1":350194,
+    "PubName":"Soloman Cutler",
+    "PubAddress":"Regency Wharf, Broad Street, Birmingham",
+    "Postcode":"B1 2DS",
+    "Easting":406189,
+    "Northing":286650,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.910305,52.477744 ]
+    },
+    "properties": {
+    "FID":1,
+    "Shape *":"Point",
+    "OBJECTID_1":302,
+    "TARGET_FID":34125,
+    "Field1":350954,
+    "PubName":"The O Bar",
+    "PubAddress":"O Bar, 264 Broad Street, Birmingham",
+    "Postcode":"B1 2DS",
+    "Easting":406189,
+    "Northing":286650,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.910305,52.477744 ]
+    },
+    "properties": {
+    "FID":2,
+    "Shape *":"Point",
+    "OBJECTID_1":303,
+    "TARGET_FID":34129,
+    "Field1":351372,
+    "PubName":"Walkabout Inn",
+    "PubAddress":"Walkabout Inn, 266-271 Broad Street, Birmingham",
+    "Postcode":"B1 2DS",
+    "Easting":406189,
+    "Northing":286650,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.910657,52.47822 ]
+    },
+    "properties": {
+    "FID":3,
+    "Shape *":"Point",
+    "OBJECTID_1":304,
+    "TARGET_FID":34134,
+    "Field1":349700,
+    "PubName":"Reflex",
+    "PubAddress":"Reflex, 36-37 Broad Street, Birmingham",
+    "Postcode":"B1 2DY",
+    "Easting":406165,
+    "Northing":286703,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.911057,52.477232 ]
+    },
+    "properties": {
+    "FID":4,
+    "Shape *":"Point",
+    "OBJECTID_1":305,
+    "TARGET_FID":34156,
+    "Field1":348853,
+    "PubName":"Mooch Bar",
+    "PubAddress":"260 Broad Street, Birmingham",
+    "Postcode":"B1 2HF",
+    "Easting":406138,
+    "Northing":286593,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.912483,52.478105 ]
+    },
+    "properties": {
+    "FID":5,
+    "Shape *":"Point",
+    "OBJECTID_1":306,
+    "TARGET_FID":34162,
+    "Field1":345539,
+    "PubName":"All Bar One",
+    "PubAddress":"The Waters Edge, Birmingham",
+    "Postcode":"B1 2HL",
+    "Easting":406041,
+    "Northing":286691,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.912483,52.478105 ]
+    },
+    "properties": {
+    "FID":6,
+    "Shape *":"Point",
+    "OBJECTID_1":307,
+    "TARGET_FID":34189,
+    "Field1":350145,
+    "PubName":"Slug & Lettuce",
+    "PubAddress":"Slug And Lettuce, The Waters Edge, Birmingham",
+    "Postcode":"B1 2HL",
+    "Easting":406041,
+    "Northing":286691,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Bar",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.911379,52.477807 ]
+    },
+    "properties": {
+    "FID":7,
+    "Shape *":"Point",
+    "OBJECTID_1":308,
+    "TARGET_FID":34247,
+    "Field1":346165,
+    "PubName":"Brasshouse",
+    "PubAddress":"The Brasshouse, 44 Broad Street, Birmingham",
+    "Postcode":"B1 2HP",
+    "Easting":406116,
+    "Northing":286657,
+    "Location":"Birmingham",
+    "CloseCanal":"New Mainline - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.914544,52.47808 ]
+    },
+    "properties": {
+    "FID":8,
+    "Shape *":"Point",
+    "OBJECTID_1":309,
+    "TARGET_FID":34279,
+    "Field1":350744,
+    "PubName":"The Bannatyne Spa",
+    "PubAddress":"Bannatynes Health Club, 3 Brunswick Street, Birmingham",
+    "Postcode":"B1 2JF",
+    "Easting":405901,
+    "Northing":286687,
+    "Location":"Birmingham",
+    "CloseCanal":"Oozells Street Loop (New Mainline) - 001",
+    "Type":"Health club",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.909688,52.477006 ]
+    },
+    "properties": {
+    "FID":9,
+    "Shape *":"Point",
+    "OBJECTID_1":310,
+    "TARGET_FID":34286,
+    "Field1":350731,
+    "PubName":"The Anson Boat",
+    "PubAddress":"Gas Street Basin, Gas Street, Birmingham",
+    "Postcode":"B1 2JT",
+    "Easting":406231,
+    "Northing":286568,
+    "Location":"Birmingham",
+    "CloseCanal":"Worcester & Birmingham Canal - 050",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.909688,52.477005 ]
+    },
+    "properties": {
+    "FID":10,
+    "Shape *":"Point",
+    "OBJECTID_1":311,
+    "TARGET_FID":34329,
+    "Field1":351049,
+    "PubName":"The Tap & Spile",
+    "PubAddress":"Tap And Spile, 10-16 Gas Street, Birmingham",
+    "Postcode":"B1 2JT",
+    "Easting":406231,
+    "Northing":286568,
+    "Location":"Birmingham",
+    "CloseCanal":"Worcester & Birmingham Canal - 050",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.885512,52.414496 ]
+    },
+    "properties": {
+    "FID":12,
+    "Shape *":"Point",
+    "OBJECTID_1":313,
+    "TARGET_FID":34343,
+    "Field1":347800,
+    "PubName":"Horseshoe Inn",
+    "PubAddress":"Horseshoe Inn, 611 Alcester Road South, Billesley, Birmingham",
+    "Postcode":"B14 5EL",
+    "Easting":407884,
+    "Northing":279617,
+    "Location":"Birmingham",
+    "CloseCanal":"North Stratford Canal - 004",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.929834,52.436727 ]
+    },
+    "properties": {
+    "FID":14,
+    "Shape *":"Point",
+    "OBJECTID_1":315,
+    "TARGET_FID":34354,
+    "Field1":346792,
+    "PubName":"Country Girl",
+    "PubAddress":"Flat Over, The Country Girl, 1 Raddlebarn Road, Birmingham",
+    "Postcode":"B29 6HJ",
+    "Easting":404868,
+    "Northing":282087,
+    "Location":"Birmingham",
+    "CloseCanal":"Worcester & Birmingham Canal - 043",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.903532,52.484301 ]
+    },
+    "properties": {
+    "FID":15,
+    "Shape *":"Point",
+    "OBJECTID_1":316,
+    "TARGET_FID":34361,
+    "Field1":350444,
+    "PubName":"Stirlings Bar And Diner",
+    "PubAddress":"21 Ludgate Hill, Birmingham",
+    "Postcode":"B3 1DW",
+    "Easting":406648,
+    "Northing":287380,
+    "Location":"Birmingham",
+    "CloseCanal":"Birmingham & Fazeley Canal - 001",
+    "Type":"Bar",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.904813,52.484527 ]
+    },
+    "properties": {
+    "FID":16,
+    "Shape *":"Point",
+    "OBJECTID_1":317,
+    "TARGET_FID":34374,
+    "Field1":345458,
+    "PubName":"Actress & Bishop",
+    "PubAddress":"36 Ludgate Hill, Birmingham",
+    "Postcode":"B3 1EH",
+    "Easting":406561,
+    "Northing":287405,
+    "Location":"Birmingham",
+    "CloseCanal":"Birmingham & Fazeley Canal - 001",
+    "Type":"Bar",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.902395,52.485864 ]
+    },
+    "properties": {
+    "FID":17,
+    "Shape *":"Point",
+    "OBJECTID_1":318,
+    "TARGET_FID":34379,
+    "Field1":351209,
+    "PubName":"Tunnel Club",
+    "PubAddress":"27 Water Street, Birmingham",
+    "Postcode":"B3 1HL",
+    "Easting":406725,
+    "Northing":287553,
+    "Location":"Birmingham",
+    "CloseCanal":"Birmingham & Fazeley Canal - 002",
+    "Type":"Club",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.907455,52.481607 ]
+    },
+    "properties": {
+    "FID":18,
+    "Shape *":"Point",
+    "OBJECTID_1":319,
+    "TARGET_FID":34383,
+    "Field1":351024,
+    "PubName":"The Shakespeare",
+    "PubAddress":"The Shakespeare, 31 Summer Row, Birmingham",
+    "Postcode":"B3 1JJ",
+    "Easting":406382,
+    "Northing":287080,
+    "Location":"Birmingham",
+    "CloseCanal":"Birmingham & Fazeley Canal - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.926963,52.402482 ]
+    },
+    "properties": {
+    "FID":21,
+    "Shape *":"Point",
+    "OBJECTID_1":322,
+    "TARGET_FID":34447,
+    "Field1":348663,
+    "PubName":"Masshouse Private Members Club",
+    "PubAddress":"Sisefield Road, Birmingham",
+    "Postcode":"B38 9BG",
+    "Easting":405066,
+    "Northing":278277,
+    "Location":"Birmingham",
+    "CloseCanal":"Worcester & Birmingham Canal - 039",
+    "Type":"Social Club",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.956492,52.372073 ]
+    },
+    "properties": {
+    "FID":22,
+    "Shape *":"Point",
+    "OBJECTID_1":323,
+    "TARGET_FID":34477,
+    "Field1":352198,
+    "PubName":"The Hopwood House",
+    "PubAddress":"Redditch Road, Alvechurch, Birmingham",
+    "Postcode":"B48 7AB",
+    "Easting":403059,
+    "Northing":274893,
+    "Location":"Bromsgrove",
+    "CloseCanal":"Worcester & Birmingham Canal - 035",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.087251,52.292746 ]
+    },
+    "properties": {
+    "FID":24,
+    "Shape *":"Point",
+    "OBJECTID_1":325,
+    "TARGET_FID":34490,
+    "Field1":352162,
+    "PubName":"The Boat & Railway Inn",
+    "PubAddress":"Shaw Lane, Stoke Prior, Bromsgrove, Worcestershire",
+    "Postcode":"B60 4EQ",
+    "Easting":394146,
+    "Northing":266072,
+    "Location":"Bromsgrove",
+    "CloseCanal":"Worcester & Birmingham Canal - 020",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.053205,52.510651 ]
+    },
+    "properties": {
+    "FID":27,
+    "Shape *":"Point",
+    "OBJECTID_1":328,
+    "TARGET_FID":34584,
+    "Field1":367776,
+    "PubName":"Tividale Football and Social Club",
+    "PubAddress":"Tividale F C, Packwood Road, Tividale",
+    "Postcode":"B69 1UL",
+    "Easting":396485,
+    "Northing":290308,
+    "Location":"Sandwell",
+    "CloseCanal":"Netherton Tunnel Branch (New ML) - 002",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.050101,52.514365 ]
+    },
+    "properties": {
+    "FID":28,
+    "Shape *":"Point",
+    "OBJECTID_1":329,
+    "TARGET_FID":34590,
+    "Field1":367743,
+    "PubName":"The Wonder",
+    "PubAddress":"The Wonder, 94 Dudley Road West, Oldbury",
+    "Postcode":"B69 2HX",
+    "Easting":396697,
+    "Northing":290722,
+    "Location":"Sandwell",
+    "CloseCanal":"Netherton Tunnel Branch (New ML) - 001",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.879791,52.496389 ]
+    },
+    "properties": {
+    "FID":31,
+    "Shape *":"Point",
+    "OBJECTID_1":333,
+    "TARGET_FID":34803,
+    "Field1":350035,
+    "PubName":"Shanahans",
+    "PubAddress":"Shanahans, 129 Rocky Lane, Nechells, Birmingham",
+    "Postcode":"B7 5EP",
+    "Easting":408258,
+    "Northing":288727,
+    "Location":"Birmingham",
+    "CloseCanal":"Birmingham & Fazeley Canal - 004",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.015168,52.529945 ]
+    },
+    "properties": {
+    "FID":32,
+    "Shape *":"Point",
+    "OBJECTID_1":334,
+    "TARGET_FID":34849,
+    "Field1":367695,
+    "PubName":"The Ridgacre",
+    "PubAddress":"New Gas Street, Black Lake",
+    "Postcode":"B70 0NP",
+    "Easting":399068,
+    "Northing":292454,
+    "Location":"Sandwell",
+    "CloseCanal":"Ridgacre Branch (Wednesbury OC) - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.021222,52.52153 ]
+    },
+    "properties": {
+    "FID":33,
+    "Shape *":"Point",
+    "OBJECTID_1":335,
+    "TARGET_FID":34862,
+    "Field1":367604,
+    "PubName":"The Fox & Goose",
+    "PubAddress":"The Fox And Goose, 161 Greets Green Road, West Bromwich",
+    "Postcode":"B70 9EW",
+    "Easting":398657,
+    "Northing":291517,
+    "Location":"Sandwell",
+    "CloseCanal":"Wednesbury Old Canal - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.77599,52.528782 ]
+    },
+    "properties": {
+    "FID":34,
+    "Shape *":"Point",
+    "OBJECTID_1":336,
+    "TARGET_FID":34917,
+    "Field1":346061,
+    "PubName":"Boat",
+    "PubAddress":"Old Kingsbury Road, Birmingham",
+    "Postcode":"B76 9AE",
+    "Easting":415294,
+    "Northing":292346,
+    "Location":"Birmingham",
+    "CloseCanal":"Birmingham & Fazeley Canal - 012",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.665072,52.63478 ]
+    },
+    "properties": {
+    "FID":35,
+    "Shape *":"Point",
+    "OBJECTID_1":337,
+    "TARGET_FID":34927,
+    "Field1":377918,
+    "PubName":"The Gate Inn",
+    "PubAddress":"Tamworth Road, Amington, Tamworth",
+    "Postcode":"B77 3BY",
+    "Easting":422764,
+    "Northing":304167,
+    "Location":"Tamworth",
+    "CloseCanal":"Coventry Canal - 040",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.618763,52.617883 ]
+    },
+    "properties": {
+    "FID":36,
+    "Shape *":"Point",
+    "OBJECTID_1":338,
+    "TARGET_FID":34942,
+    "Field1":363519,
+    "PubName":"The Bulls Head",
+    "PubAddress":"Tamworth Road, Polesworth, Warwickshire",
+    "Postcode":"B78 1JH",
+    "Easting":425908,
+    "Northing":302302,
+    "Location":"North Warwickshire",
+    "CloseCanal":"Coventry Canal - 035",
+    "Type":"Indian",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.736845,52.64378 ]
+    },
+    "properties": {
+    "FID":37,
+    "Shape *":"Point",
+    "OBJECTID_1":339,
+    "TARGET_FID":34960,
+    "Field1":360738,
+    "PubName":"Coton & Hopwas Social Club",
+    "PubAddress":"School Lane, Hopwas",
+    "Postcode":"B78 3AD",
+    "Easting":417903,
+    "Northing":305148,
+    "Location":"Lichfield",
+    "CloseCanal":"Coventry Canal - 048",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.702306,52.615435 ]
+    },
+    "properties": {
+    "FID":38,
+    "Shape *":"Point",
+    "OBJECTID_1":340,
+    "TARGET_FID":35034,
+    "Field1":361296,
+    "PubName":"The Three Tuns",
+    "PubAddress":"Lichfield Street, Fazeley",
+    "Postcode":"B78 3QN",
+    "Easting":420253,
+    "Northing":302004,
+    "Location":"Lichfield",
+    "CloseCanal":"Coventry Canal - 044",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.850236,52.398805 ]
+    },
+    "properties": {
+    "FID":40,
+    "Shape *":"Point",
+    "OBJECTID_1":342,
+    "TARGET_FID":35083,
+    "Field1":352179,
+    "PubName":"The Drawbridge Inn",
+    "PubAddress":"Drawbridge Road, Majors Green, Solihull, Worcestershire",
+    "Postcode":"B90 1DD",
+    "Easting":410287,
+    "Northing":277877,
+    "Location":"Bromsgrove",
+    "CloseCanal":"North Stratford Canal - 007",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.737056,52.42075 ]
+    },
+    "properties": {
+    "FID":41,
+    "Shape *":"Point",
+    "OBJECTID_1":343,
+    "TARGET_FID":35095,
+    "Field1":371551,
+    "PubName":"The Boat Inn",
+    "PubAddress":"The Boat Inn, 222 Hampton Lane, Catherine De Barnes, Solihull",
+    "Postcode":"B91 2TJ",
+    "Easting":417979,
+    "Northing":280339,
+    "Location":"Solihull",
+    "CloseCanal":"Grand Union Canal - 014",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.775135,52.430376 ]
+    },
+    "properties": {
+    "FID":42,
+    "Shape *":"Point",
+    "OBJECTID_1":344,
+    "TARGET_FID":35098,
+    "Field1":371043,
+    "PubName":"Land Rover Sports & Social Club",
+    "PubAddress":"The Sportsground, Billsmore Green, Solihull, West Midlands",
+    "Postcode":"B92 9LN",
+    "Easting":415386,
+    "Northing":281401,
+    "Location":"Solihull",
+    "CloseCanal":"Grand Union Canal - 011",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.75092,52.339939 ]
+    },
+    "properties": {
+    "FID":43,
+    "Shape *":"Point",
+    "OBJECTID_1":345,
+    "TARGET_FID":35101,
+    "Field1":381550,
+    "PubName":"Lapworth Cricket Club",
+    "PubAddress":"Pavilion, Cricket Ground, Old Warwick Road, Lapworth",
+    "Postcode":"B94 6AZ",
+    "Easting":417067,
+    "Northing":271347,
+    "Location":"Warwick",
+    "CloseCanal":"North Stratford Canal - 019",
+    "Type":"Sports Club",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.813587,52.366092 ]
+    },
+    "properties": {
+    "FID":44,
+    "Shape *":"Point",
+    "OBJECTID_1":346,
+    "TARGET_FID":35148,
+    "Field1":377201,
+    "PubName":"The Blue Bell Cider House",
+    "PubAddress":"Blue Bell, Warings Green Road, Hockley Heath, Solihull",
+    "Postcode":"B94 6BP",
+    "Easting":412790,
+    "Northing":274243,
+    "Location":"Solihull",
+    "CloseCanal":"North Stratford Canal - 013",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.81934,52.36699 ]
+    },
+    "properties": {
+    "FID":45,
+    "Shape *":"Point",
+    "OBJECTID_1":348,
+    "TARGET_FID":35585,
+    "Field1":371554,
+    "PubName":"The Bulls head",
+    "PubAddress":"Bulls Head, 7 Limekiln Lane, Earlswood, Solihull",
+    "Postcode":"B94 6BU",
+    "Easting":412398,
+    "Northing":274342,
+    "Location":"Solihull",
+    "CloseCanal":"North Stratford Canal - 012",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.768486,52.264494 ]
+    },
+    "properties": {
+    "FID":46,
+    "Shape *":"Point",
+    "OBJECTID_1":351,
+    "TARGET_FID":35680,
+    "Field1":377309,
+    "PubName":"The Navigation Inn",
+    "PubAddress":"Navigation Inn, Stratford Road, Wootton Wawen, Henley-in-Arden",
+    "Postcode":"B95 6BZ",
+    "Easting":415897,
+    "Northing":262950,
+    "Location":"Stratford-on-Avon",
+    "CloseCanal":"South Stratford Canal - 010",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.507293,52.549158 ]
+    },
+    "properties": {
+    "FID":48,
+    "Shape *":"Point",
+    "OBJECTID_1":359,
+    "TARGET_FID":35973,
+    "Field1":363508,
+    "PubName":"The Anchor Inn",
+    "PubAddress":"Mancetter Road, Hartshill, Warwickshire",
+    "Postcode":"CV10 0RT",
+    "Easting":433507,
+    "Northing":294704,
+    "Location":"North Warwickshire",
+    "CloseCanal":"Coventry Canal - 023",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.278085,52.390943 ]
+    },
+    "properties": {
+    "FID":49,
+    "Shape *":"Point",
+    "OBJECTID_1":360,
+    "TARGET_FID":35978,
+    "Field1":364998,
+    "PubName":"Bell & Barge Harvester",
+    "PubAddress":"Bell And Barge, Brownsover Road, Brownsover",
+    "Postcode":"CV21 1HL",
+    "Easting":449225,
+    "Northing":277236,
+    "Location":"Rugby",
+    "CloseCanal":"Oxford Canal - 019",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.28299,52.391116 ]
+    },
+    "properties": {
+    "FID":50,
+    "Shape *":"Point",
+    "OBJECTID_1":361,
+    "TARGET_FID":35994,
+    "Field1":364994,
+    "PubName":"Barley Mow",
+    "PubAddress":"64 Main Street, Newbold",
+    "Postcode":"CV21 1HW",
+    "Easting":448891,
+    "Northing":277252,
+    "Location":"Rugby",
+    "CloseCanal":"Oxford Canal - 019",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.28299,52.391116 ]
+    },
+    "properties": {
+    "FID":51,
+    "Shape *":"Point",
+    "OBJECTID_1":362,
+    "TARGET_FID":36180,
+    "Field1":365380,
+    "PubName":"Newbold Crown",
+    "PubAddress":"2 Main Street, Newbold",
+    "Postcode":"CV21 1HW",
+    "Easting":448891,
+    "Northing":277252,
+    "Location":"Rugby",
+    "CloseCanal":"Oxford Canal - 019",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.200913,52.355645 ]
+    },
+    "properties": {
+    "FID":52,
+    "Shape *":"Point",
+    "OBJECTID_1":363,
+    "TARGET_FID":36184,
+    "Field1":365658,
+    "PubName":"The Old Royal Oak",
+    "PubAddress":"Old Royal Oak, Crick Road, Hillmorton",
+    "Postcode":"CV21 4PW",
+    "Easting":454520,
+    "Northing":273365,
+    "Location":"Rugby",
+    "CloseCanal":"Oxford Canal - 027",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.359438,52.28297 ]
+    },
+    "properties": {
+    "FID":53,
+    "Shape *":"Point",
+    "OBJECTID_1":364,
+    "TARGET_FID":36185,
+    "Field1":365026,
+    "PubName":"Boat Inn",
+    "PubAddress":"Boat Inn, Birdingbury Wharf, Rugby Road",
+    "Postcode":"CV23 8HQ",
+    "Easting":443795,
+    "Northing":265174,
+    "Location":"Rugby",
+    "CloseCanal":"Grand Union Canal - 056",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.516457,52.283708 ]
+    },
+    "properties": {
+    "FID":54,
+    "Shape *":"Point",
+    "OBJECTID_1":365,
+    "TARGET_FID":36192,
+    "Field1":381356,
+    "PubName":"Fusilier",
+    "PubAddress":"The Fusilier, Sydenham Drive, Leamington Spa",
+    "Postcode":"CV31 1NJ",
+    "Easting":433083,
+    "Northing":265173,
+    "Location":"Warwick",
+    "CloseCanal":"Grand Union Canal - 044",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.330839,52.242085 ]
+    },
+    "properties": {
+    "FID":56,
+    "Shape *":"Point",
+    "OBJECTID_1":367,
+    "TARGET_FID":36274,
+    "Field1":377251,
+    "PubName":"The Folly",
+    "PubAddress":"The Folly Inn, Folly Lane, Napton-on-the-Hill, Southam",
+    "Postcode":"CV47 8NZ",
+    "Easting":445788,
+    "Northing":260644,
+    "Location":"Stratford-on-Avon",
+    "CloseCanal":"Oxford Canal - 048",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.48482,52.454415 ]
+    },
+    "properties": {
+    "FID":57,
+    "Shape *":"Point",
+    "OBJECTID_1":368,
+    "TARGET_FID":36315,
+    "Field1":354289,
+    "PubName":"Longford Engine",
+    "PubAddress":"270 Bedworth Road, Coventry",
+    "Postcode":"CV6 6BP",
+    "Easting":435106,
+    "Northing":284176,
+    "Location":"Coventry",
+    "CloseCanal":"Coventry Canal - 008",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.469496,52.45727 ]
+    },
+    "properties": {
+    "FID":58,
+    "Shape *":"Point",
+    "OBJECTID_1":369,
+    "TARGET_FID":36354,
+    "Field1":355113,
+    "PubName":"The Greyhound",
+    "PubAddress":"Greyhound Inn, 20 Sutton Stop, Coventry",
+    "Postcode":"CV6 6DF",
+    "Easting":436145,
+    "Northing":284501,
+    "Location":"Coventry",
+    "CloseCanal":"Coventry Canal - 009",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.55413,52.579765 ]
+    },
+    "properties": {
+    "FID":61,
+    "Shape *":"Point",
+    "OBJECTID_1":372,
+    "TARGET_FID":36425,
+    "Field1":363551,
+    "PubName":"The Kings Head",
+    "PubAddress":"Old Watling Street, Atherstone, Warwickshire",
+    "Postcode":"CV9 2PA",
+    "Easting":430310,
+    "Northing":298089,
+    "Location":"North Warwickshire",
+    "CloseCanal":"Coventry Canal - 028",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.232624,52.421217 ]
+    },
+    "properties": {
+    "FID":63,
+    "Shape *":"Point",
+    "OBJECTID_1":374,
+    "TARGET_FID":36482,
+    "Field1":386222,
+    "PubName":"The Bulls Head",
+    "PubAddress":"10 Bridge Road, Cookley, Kidderminster, Worcestershire",
+    "Postcode":"DY10 3SA",
+    "Easting":384277,
+    "Northing":280385,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 013",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.253873,52.380295 ]
+    },
+    "properties": {
+    "FID":64,
+    "Shape *":"Point",
+    "OBJECTID_1":375,
+    "TARGET_FID":36509,
+    "Field1":386315,
+    "PubName":"The Watermill",
+    "PubAddress":"Park Lane, Kidderminster, Worcestershire",
+    "Postcode":"DY11 6TL",
+    "Easting":382817,
+    "Northing":275837,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 007",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.27736,52.342205 ]
+    },
+    "properties": {
+    "FID":65,
+    "Shape *":"Point",
+    "OBJECTID_1":376,
+    "TARGET_FID":36514,
+    "Field1":386292,
+    "PubName":"The Rising Sun",
+    "PubAddress":"50 Lombard Street, Stourport-On-Severn, Worcestershire",
+    "Postcode":"DY13 8DU",
+    "Easting":381201,
+    "Northing":271607,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.276657,52.342895 ]
+    },
+    "properties": {
+    "FID":66,
+    "Shape *":"Point",
+    "OBJECTID_1":377,
+    "TARGET_FID":36522,
+    "Field1":386310,
+    "PubName":"The Three Lions",
+    "PubAddress":"11 - 12  Foundry Street, Stourport On Severn, Worcestershire",
+    "Postcode":"DY13 8EB",
+    "Easting":381249,
+    "Northing":271682,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.277336,52.340775 ]
+    },
+    "properties": {
+    "FID":67,
+    "Shape *":"Point",
+    "OBJECTID_1":383,
+    "TARGET_FID":36939,
+    "Field1":386218,
+    "PubName":"The Black Star",
+    "PubAddress":"1 Mitton Street, Stourport On Severn, Worcestershire",
+    "Postcode":"DY13 8YP",
+    "Easting":381202,
+    "Northing":271448,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.270612,52.343412 ]
+    },
+    "properties": {
+    "FID":68,
+    "Shape *":"Point",
+    "OBJECTID_1":384,
+    "TARGET_FID":36985,
+    "Field1":386214,
+    "PubName":"The Bird In Hand",
+    "PubAddress":"5 Canal Side, Stourport On Severn, Worcestershire",
+    "Postcode":"DY13 9BD",
+    "Easting":381661,
+    "Northing":271738,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 002",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.279631,52.337047 ]
+    },
+    "properties": {
+    "FID":69,
+    "Shape *":"Point",
+    "OBJECTID_1":385,
+    "TARGET_FID":36986,
+    "Field1":386318,
+    "PubName":"The Wharf",
+    "PubAddress":"Stourport Wharf, Severn Side, Stourport On Severn, Worcestershire",
+    "Postcode":"DY13 9EN",
+    "Easting":381044,
+    "Northing":271033,
+    "Location":"Wyre Forest",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.092797,52.48317 ]
+    },
+    "properties": {
+    "FID":70,
+    "Shape *":"Point",
+    "OBJECTID_1":386,
+    "TARGET_FID":37050,
+    "Field1":356000,
+    "PubName":"Dudley Water Sports Centre",
+    "PubAddress":"Lodge Farm Reservoir, Highbridge Road, Netherton",
+    "Postcode":"DY2 0HB",
+    "Easting":393795,
+    "Northing":287254,
+    "Location":"Dudley",
+    "CloseCanal":"Dudley No 2 Canal - 002",
+    "Type":"Clubhouse",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.204154,52.512698 ]
+    },
+    "properties": {
+    "FID":71,
+    "Shape *":"Point",
+    "OBJECTID_1":387,
+    "TARGET_FID":37053,
+    "Field1":371984,
+    "PubName":"Green Man Inn",
+    "PubAddress":"High Street, Swindon",
+    "Postcode":"DY3 4NR",
+    "Easting":386243,
+    "Northing":290554,
+    "Location":"South Staffordshire",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 028",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.204153,52.512697 ]
+    },
+    "properties": {
+    "FID":72,
+    "Shape *":"Point",
+    "OBJECTID_1":388,
+    "TARGET_FID":37061,
+    "Field1":372128,
+    "PubName":"Old Bush Inn",
+    "PubAddress":"Old Bush Inn, High Street, Swindon",
+    "Postcode":"DY3 4NR",
+    "Easting":386243,
+    "Northing":290554,
+    "Location":"South Staffordshire",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 028",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.069987,52.528783 ]
+    },
+    "properties": {
+    "FID":73,
+    "Shape *":"Point",
+    "OBJECTID_1":389,
+    "TARGET_FID":37075,
+    "Field1":367602,
+    "PubName":"The Fountain Inn",
+    "PubAddress":"Fountain Inn, 51 Owen Street, Tipton",
+    "Postcode":"DY4 8HE",
+    "Easting":395349,
+    "Northing":292326,
+    "Location":"Sandwell",
+    "CloseCanal":"Old Main Line - 012",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.070234,52.526554 ]
+    },
+    "properties": {
+    "FID":74,
+    "Shape *":"Point",
+    "OBJECTID_1":403,
+    "TARGET_FID":37753,
+    "Field1":367693,
+    "PubName":"The Red Lion",
+    "PubAddress":"Red Lion, 172 Park Lane West, Tipton",
+    "Postcode":"DY4 8LD",
+    "Easting":395332,
+    "Northing":292078,
+    "Location":"Sandwell",
+    "CloseCanal":"Old Main Line - 013",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.114065,52.485201 ]
+    },
+    "properties": {
+    "FID":75,
+    "Shape *":"Point",
+    "OBJECTID_1":404,
+    "TARGET_FID":37780,
+    "Field1":355647,
+    "PubName":"Brierley Hop House",
+    "PubAddress":"Waterfront Way, Brierley Hill",
+    "Postcode":"DY5 1XD",
+    "Easting":392351,
+    "Northing":287481,
+    "Location":"Dudley",
+    "CloseCanal":"Dudley No 1 Canal - 002",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.121519,52.475368 ]
+    },
+    "properties": {
+    "FID":76,
+    "Shape *":"Point",
+    "OBJECTID_1":405,
+    "TARGET_FID":37808,
+    "Field1":357316,
+    "PubName":"Tenth Lock Public House",
+    "PubAddress":"154 Delph Road, Brierley Hill",
+    "Postcode":"DY5 2TY",
+    "Easting":391843,
+    "Northing":286389,
+    "Location":"Dudley",
+    "CloseCanal":"Dudley No 1 Canal - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.138313,52.473893 ]
+    },
+    "properties": {
+    "FID":77,
+    "Shape *":"Point",
+    "OBJECTID_1":407,
+    "TARGET_FID":37892,
+    "Field1":357471,
+    "PubName":"The New Wellington",
+    "PubAddress":"383 Brettell Lane, Brierley Hill",
+    "Postcode":"DY5 3LQ",
+    "Easting":390702,
+    "Northing":286226,
+    "Location":"Dudley",
+    "CloseCanal":"Stourbridge Canal - 008",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.137039,52.476322 ]
+    },
+    "properties": {
+    "FID":78,
+    "Shape *":"Point",
+    "OBJECTID_1":408,
+    "TARGET_FID":38078,
+    "Field1":357363,
+    "PubName":"The Bulls Head",
+    "PubAddress":"Bull Street, Brierley Hill",
+    "Postcode":"DY5 3RA",
+    "Easting":390789,
+    "Northing":286496,
+    "Location":"Dudley",
+    "CloseCanal":"Stourbridge Canal - 008",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.197464,52.506092 ]
+    },
+    "properties": {
+    "FID":79,
+    "Shape *":"Point",
+    "OBJECTID_1":409,
+    "TARGET_FID":38085,
+    "Field1":372015,
+    "PubName":"Hinksford Arms",
+    "PubAddress":"Hinksford Arms, Swindon Road, Hinksford",
+    "Postcode":"DY6 0BA",
+    "Easting":386695,
+    "Northing":289818,
+    "Location":"South Staffordshire",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 026",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.149948,52.479695 ]
+    },
+    "properties": {
+    "FID":82,
+    "Shape *":"Point",
+    "OBJECTID_1":412,
+    "TARGET_FID":38141,
+    "Field1":357057,
+    "PubName":"Samson And Lion Public House",
+    "PubAddress":"138-140 Brierley Hill Road, Wordsley, Stourbridge",
+    "Postcode":"DY8 5SP",
+    "Easting":389913,
+    "Northing":286874,
+    "Location":"Dudley",
+    "CloseCanal":"Stourbridge Canal - 006",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.21931,52.289859 ]
+    },
+    "properties": {
+    "FID":83,
+    "Shape *":"Point",
+    "OBJECTID_1":413,
+    "TARGET_FID":38193,
+    "Field1":55934,
+    "PubName":"The Boat House",
+    "PubAddress":"London Road, Braunston, Northamptonshire",
+    "Postcode":"NN11 7HB",
+    "Easting":453346,
+    "Northing":266034,
+    "Location":"Daventry",
+    "CloseCanal":"Grand Union Canal - 070",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.241872,52.232808 ]
+    },
+    "properties": {
+    "FID":84,
+    "Shape *":"Point",
+    "OBJECTID_1":414,
+    "TARGET_FID":38201,
+    "Field1":361918,
+    "PubName":"The Camp House",
+    "PubAddress":"Camp Lane, Grimley, Worcester",
+    "Postcode":"WR2 6LX",
+    "Easting":383578,
+    "Northing":259430,
+    "Location":"Malvern Hills",
+    "CloseCanal":"River Severn Navigation - 054",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.986569,52.585979 ]
+    },
+    "properties": {
+    "FID":85,
+    "Shape *":"Point",
+    "OBJECTID_1":415,
+    "TARGET_FID":38210,
+    "Field1":380885,
+    "PubName":"Walsall Brewers Fayre",
+    "PubAddress":"Wolverhampton Street, Walsall, West Midlands",
+    "Postcode":"WS2 8LR",
+    "Easting":401007,
+    "Northing":298686,
+    "Location":"Walsall",
+    "CloseCanal":"Walsall Town Arm (Walsall Canal) - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.986569,52.585979 ]
+    },
+    "properties": {
+    "FID":86,
+    "Shape *":"Point",
+    "OBJECTID_1":416,
+    "TARGET_FID":38249,
+    "Field1":380926,
+    "PubName":"Wharf Bar",
+    "PubAddress":"10 Wolverhampton Street, Walsall, West Midlands",
+    "Postcode":"WS2 8LR",
+    "Easting":401007,
+    "Northing":298686,
+    "Location":"Walsall",
+    "CloseCanal":"Walsall Town Arm (Walsall Canal) - 001",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.993638,52.588443 ]
+    },
+    "properties": {
+    "FID":87,
+    "Shape *":"Point",
+    "OBJECTID_1":417,
+    "TARGET_FID":38256,
+    "Field1":380764,
+    "PubName":"The Lion Bar & Nightclub",
+    "PubAddress":"41-42 Birchills Street, Walsall, West Midlands",
+    "Postcode":"WS2 8NG",
+    "Easting":400528,
+    "Northing":298959,
+    "Location":"Walsall",
+    "CloseCanal":"Walsall Canal - 012",
+    "Type":"Club",
+    "Food":"Yes",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.993269,52.592569 ]
+    },
+    "properties": {
+    "FID":88,
+    "Shape *":"Point",
+    "OBJECTID_1":418,
+    "TARGET_FID":38290,
+    "Field1":379431,
+    "PubName":"Birchills Liberal Club",
+    "PubAddress":"Old Birchills, Walsall, West Midlands",
+    "Postcode":"WS2 8QD",
+    "Easting":400553,
+    "Northing":299419,
+    "Location":"Walsall",
+    "CloseCanal":"Walsall Canal - 013",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.00183,52.576846 ]
+    },
+    "properties": {
+    "FID":89,
+    "Shape *":"Point",
+    "OBJECTID_1":419,
+    "TARGET_FID":38312,
+    "Field1":379486,
+    "PubName":"Bradford Arms",
+    "PubAddress":"Pleck Road, Walsall, West Midlands",
+    "Postcode":"WS2 9HE",
+    "Easting":399973,
+    "Northing":297670,
+    "Location":"Walsall",
+    "CloseCanal":"Walsall Canal - 011",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.968451,52.638188 ]
+    },
+    "properties": {
+    "FID":90,
+    "Shape *":"Point",
+    "OBJECTID_1":420,
+    "TARGET_FID":38323,
+    "Field1":380742,
+    "PubName":"The Fingerpost",
+    "PubAddress":"Yorks Bridge, Norton Road, Pelsall, Walsall",
+    "Postcode":"WS3 5AU",
+    "Easting":402232,
+    "Northing":304494,
+    "Location":"Walsall",
+    "CloseCanal":"Wyrley & Essington Canal - 021",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.953727,52.602036 ]
+    },
+    "properties": {
+    "FID":91,
+    "Shape *":"Point",
+    "OBJECTID_1":421,
+    "TARGET_FID":38394,
+    "Field1":380126,
+    "PubName":"Manor Arms",
+    "PubAddress":"Park Road, Rushall, Walsall, West Midlands",
+    "Postcode":"WS4 1LG",
+    "Easting":403231,
+    "Northing":300473,
+    "Location":"Walsall",
+    "CloseCanal":"Daw End Canal - 007",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.953727,52.602036 ]
+    },
+    "properties": {
+    "FID":92,
+    "Shape *":"Point",
+    "OBJECTID_1":422,
+    "TARGET_FID":38412,
+    "Field1":380713,
+    "PubName":"The Boathouse",
+    "PubAddress":"Park Road, Rushall, Walsall, West Midlands",
+    "Postcode":"WS4 1LG",
+    "Easting":403231,
+    "Northing":300473,
+    "Location":"Walsall",
+    "CloseCanal":"Daw End Canal - 007",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.942979,52.589598 ]
+    },
+    "properties": {
+    "FID":93,
+    "Shape *":"Point",
+    "OBJECTID_1":423,
+    "TARGET_FID":38429,
+    "Field1":379540,
+    "PubName":"Calderfields Golf & County Club Ltd",
+    "PubAddress":"Aldridge Road, Walsall, West Midlands",
+    "Postcode":"WS4 2JS",
+    "Easting":403960,
+    "Northing":299090,
+    "Location":"Walsall",
+    "CloseCanal":"Rushall Canal - 001",
+    "Type":"Clubhouse",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.102002,52.59185 ]
+    },
+    "properties": {
+    "FID":95,
+    "Shape *":"Point",
+    "OBJECTID_1":425,
+    "TARGET_FID":38444,
+    "Field1":383737,
+    "PubName":"The Jolly Collier (wet Sales)",
+    "PubAddress":"The Jolly Collier Public House, Old Heath Road, Wolverhampton, West Midlands",
+    "Postcode":"WV1 2RT",
+    "Easting":393187,
+    "Northing":299344,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Wyrley & Essington Canal - 002",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.132416,52.603176 ]
+    },
+    "properties": {
+    "FID":97,
+    "Shape *":"Point",
+    "OBJECTID_1":427,
+    "TARGET_FID":38476,
+    "Field1":382891,
+    "PubName":"Jones Road Working Mens Club",
+    "PubAddress":"Jones Road, Wolverhampton, West Midlands",
+    "Postcode":"WV10 6JQ",
+    "Easting":391129,
+    "Northing":300608,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Old Main Line - 002",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.144997,52.612509 ]
+    },
+    "properties": {
+    "FID":98,
+    "Shape *":"Point",
+    "OBJECTID_1":428,
+    "TARGET_FID":38479,
+    "Field1":383677,
+    "PubName":"The Canalside Club",
+    "PubAddress":"The Wharf, Oxley Moor Road, Wolverhampton, West Midlands",
+    "Postcode":"WV10 6TZ",
+    "Easting":390279,
+    "Northing":301647,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 042",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.08358,52.599938 ]
+    },
+    "properties": {
+    "FID":99,
+    "Shape *":"Point",
+    "OBJECTID_1":429,
+    "TARGET_FID":38505,
+    "Field1":383668,
+    "PubName":"The Boat",
+    "PubAddress":"Boat Inn, 27 - 29 Church Street, Wednesfield, Wolverhampton",
+    "Postcode":"WV11 1SS",
+    "Easting":394436,
+    "Northing":300243,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Wyrley & Essington Canal - 003",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.082356,52.600218 ]
+    },
+    "properties": {
+    "FID":100,
+    "Shape *":"Point",
+    "OBJECTID_1":430,
+    "TARGET_FID":38526,
+    "Field1":383661,
+    "PubName":"The Angel",
+    "PubAddress":"The Angel Public House, High Street, Wednesfield, Wolverhampton",
+    "Postcode":"WV11 1ST",
+    "Easting":394519,
+    "Northing":300274,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Wyrley & Essington Canal - 003",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.082356,52.600218 ]
+    },
+    "properties": {
+    "FID":101,
+    "Shape *":"Point",
+    "OBJECTID_1":437,
+    "TARGET_FID":38858,
+    "Field1":383780,
+    "PubName":"The Royal Tiger",
+    "PubAddress":"The Royal Tiger Public House, 41 - 43 High Street, Wednesfield, Wolverhampton",
+    "Postcode":"WV11 1ST",
+    "Easting":394519,
+    "Northing":300274,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Wyrley & Essington Canal - 003",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.086376,52.542643 ]
+    },
+    "properties": {
+    "FID":102,
+    "Shape *":"Point",
+    "OBJECTID_1":438,
+    "TARGET_FID":38861,
+    "Field1":355859,
+    "PubName":"Coseley Conservative Club",
+    "PubAddress":"Coseley Medical Centre, 32-34 Avenue Road, Coseley, Bilston",
+    "Postcode":"WV14 9DJ",
+    "Easting":394239,
+    "Northing":293869,
+    "Location":"Dudley",
+    "CloseCanal":"Old Main Line - 010",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"No",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.087701,52.541708 ]
+    },
+    "properties": {
+    "FID":103,
+    "Shape *":"Point",
+    "OBJECTID_1":439,
+    "TARGET_FID":38864,
+    "Field1":357373,
+    "PubName":"The Chainyards",
+    "PubAddress":"63 Castle Street, Coseley, Bilston",
+    "Postcode":"WV14 9DW",
+    "Easting":394149,
+    "Northing":293765,
+    "Location":"Dudley",
+    "CloseCanal":"Old Main Line - 010",
+    "Type":"Pub",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.201031,52.535762 ]
+    },
+    "properties": {
+    "FID":105,
+    "Shape *":"Point",
+    "OBJECTID_1":441,
+    "TARGET_FID":38910,
+    "Field1":372194,
+    "PubName":"Round Oak",
+    "PubAddress":"100 OunsdaleRoad, Wombourne",
+    "Postcode":"WV5 8BU",
+    "Easting":386461,
+    "Northing":293119,
+    "Location":"South Staffordshire",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 030",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"Yes",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.174182,52.587074 ]
+    },
+    "properties": {
+    "FID":106,
+    "Shape *":"Point",
+    "OBJECTID_1":442,
+    "TARGET_FID":38913,
+    "Field1":383199,
+    "PubName":"Oddfellows Hall",
+    "PubAddress":"Oddfellows, Bridgnorth Road, Wolverhampton, West Midlands",
+    "Postcode":"WV6 8AA",
+    "Easting":388296,
+    "Northing":298822,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 038",
+    "Type":"Pub",
+    "Food":"Yes",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"Yes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.138402,52.62842 ]
+    },
+    "properties": {
+    "FID":107,
+    "Shape *":"Point",
+    "OBJECTID_1":443,
+    "TARGET_FID":38915,
+    "Field1":382696,
+    "PubName":"Fordhouses Cricket Club",
+    "PubAddress":"Fordhouses Cricket Sports And Socia, Wobaston Road, Wolverhampton",
+    "Postcode":"WV9 5HH",
+    "Easting":390729,
+    "Northing":303416,
+    "Location":"Wolverhampton",
+    "CloseCanal":"Staffordshire & Worcestershire Cnl - 044",
+    "Type":"Social Club",
+    "Food":"No",
+    "Garden":"Yes",
+    "DogFriendly":"No",
+    "RealAle":"No"
+    }
+  }
+]
+}

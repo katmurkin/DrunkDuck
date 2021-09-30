@@ -1,0 +1,154 @@
+/* remove margins from body, make background fill full height */
+html, body {
+    margin:0;
+    height: 100%;
+    font-family: Arial, Times, Verdana;
+    background-color: #B7EFCD;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* split screen in unequal amounts */
+.split {
+    height: calc(100% - 4em);
+    padding: 30px;
+}
+
+.topnav {
+    height: 3em;
+    background-color: #B7EFCD;
+    margin-left: 3em;
+    padding-top: 1em;
+    overflow-y: auto;
+}
+
+.lowerArea {
+    height: calc(100% - 4em);
+    overflow-y: auto;
+ }
+ 
+/* control left side */
+.left {
+/*  left: 0; */
+    width: 30%;
+    background-color: #B7EFCD;
+    float: left;
+}
+
+/* control right side */
+.right {
+    background-color: #B7EFCD;
+    padding-right: 20px;
+}
+ 
+.sideArea {
+    padding-left: 20px;
+    height: calc(100% - 4em);
+    	
+  }
+
+.mapArea {
+    padding-left: 20px;
+    height: calc(100% - 4em);
+  }
+
+/*tristate set*/
+#foodTristate {
+background-color: transparent;
+    border: 1;
+    cursor: pointer;
+    text-align: center;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+#aleTristate {
+background-color: transparent;
+    border: 1;
+    cursor: pointer;
+    text-align: center;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+#dogTristate {
+background-color: transparent;
+    border: 1;
+    cursor: pointer;
+    text-align: center;
+    width: 1.5em;
+    height: 1.5em;  
+}
+
+#gardenTristate {
+background-color: transparent;
+    border: 1;
+    cursor: pointer;
+    text-align: center;
+    width: 1.5em;
+    height: 1.5em;  
+}
+/* center text */
+.centered {
+    text-align: center;
+    background-color: white;
+    height: 350px;
+    padding-top: 50px;
+    margin-left: 20px;
+}
+
+.popover-content {
+    background: #FFFFFF;
+    opacity: 1;
+    }
+
+
+/*background padding */
+#buffers {
+    padding: 5px;
+}
+
+/*map */
+#map {
+    height: 400px;
+    width: 100%;
+}
+	
+/*results table*/
+#resultsTable { 
+    background-color: white;
+    border: 0px;
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 12;
+}
+
+#resultsTable table {
+    border: 0px;
+}
+
+
+/*results table cell*/
+#resultsTable td {
+    padding-bottom: 10px;
+    border: 0px;
+}
+
+/*DD textbox*/
+.textbox {
+    margin: 3em;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: white;
+}

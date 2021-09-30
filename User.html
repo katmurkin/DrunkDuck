@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>User testing</title>
+	<link rel="stylesheet" type="text/css" href="./canal_split.css"/>
+	
+</head>
+<body>
+	<a id="top"></a>
+<div class="topnav">
+	<a href="./Map.html">Map</a>&nbsp;
+	<a href="./Concept.html">Concept</a>&nbsp;
+	<a href="./Architecture.html">Architecture</a>&nbsp;
+	<a class="active" href="./User.html">User Testing</a>&nbsp;
+	<a href="./Critical_Sum.html">Critical Summary</a>&nbsp;
+</div>
+<div class="textbox">
+
+<h2>Design Document - User testing</h2>
+<br>
+<p>User testing was completed online, via a live webpage. Testers were given the link and a series of aspects 
+to return comments on. The webmap went through three iterations due to various updates and bugs which needed 
+fixing before users submitted their final views. User comments are given in the table below, with information 
+about subsequent actions taken. </p>
+<br>
+
+<table style="width:60%", >
+<caption>Table 1. User tester comments.</caption>
+	<tr>
+	    <th>Aspect</th>
+	    <th>User Number</th>
+	    <th>Comment</th>
+	    <th>Fix</th>
+	</tr>
+	<tr>
+	    <td>Data</td>
+	    <td>1, 3</td>
+	    <td>Pubs missing from local canal.</td>
+	    <td>No update &#8208; issue with missing pubs was identified as incomplete dataset and mismatch between 
+	    postcode location and physical location. Time taken to add in additional pubs would reduce time 
+	    spent on functionality and performance.  If pubs continue to be geolocated by postcode then size 
+	    of postcode area should be considered when applying the canal buffer to avoid incorrectly excluding 
+	    some canalside premises.</td>
+	</tr>
+	<tr>
+	    <td>Data</td>
+	    <td>2</td>
+	    <td>Data is as expected.</td>
+	    <td>No action needed.</td>
+	</tr>
+	<tr>
+	    <td>Functionality</td>
+	    <td>1, 3</td>
+	    <td>When filtering results, it's not immediately clear whether that will 
+	    only show results that match all of your selection criteria, or results will include everything 
+	    matching just one of your selection. Also not clear if nothing is ticked, that all results will 
+	    be shown. (Maybe explain in a help/ instructions box that pops up first time loading page?).</td>
+	    <td>Changed checkbox formatting to more generic Unicode characters. Help box added below checkboxes 
+	    to explain filter functionality.</td>
+	</tr>
+	<tr>
+	    <td>Functionality</td>
+	    <td>2, 3</td>
+	    <td>Map is quite small on mobile (Samsung S7, iPhone XR).</td>
+	    <td>Responsive web page design (including possible toggle button on sidebar) not implemented due 
+	    to lack of time.</td>
+	</tr>	
+	<tr>
+	    <td>Performance</td>
+	    <td>1</td>
+	    <td>Works well on mobile internet. Not too slow to be usable.</td>
+	    <td>No action needed.</td>
+	</tr>	
+	<tr>
+	    <td>Performance</td>
+	    <td>2</td>
+	    <td>Updates quickly (Samsung S7).</td>
+	    <td>No action needed.</td>
+	</tr>	
+	<tr>
+	    <td>Performance</td>
+	    <td>3</td>
+	    <td>Slow to load on first try. Much quicker second time round.</td>
+	    <td>No action needed.</td>
+	</tr>	
+	<tr>
+	    <td>Usability</td>
+	    <td>1</td>
+	    <td>Difficult to click on canal using mobile phone.</td>
+	    <td>Search revealed this as a known issue with Leaflet. No update found. 
+	    Attempted Makina Corpus plugin &#34;almostOver&#34; to work around this issue, 
+	    but did not work reliably so re-wrote code to allow clicking anywhere on the map and using 
+	    turf library to locate nearest point on canal.</td>
+	</tr>	
+	<tr>
+	    <td>Usability</td>
+	    <td>1</td>
+	    <td>Selecting canals from dropdown would be easier if grouped by canal.</td>
+	    <td>This information was not available in the raw dataset, therefore time spent on other 
+	    features instead.</td>
+	</tr>
+	<tr>
+	    <td>Usability</td>
+	    <td>2</td>
+	    <td>Light blue &lsquo;selected canal&rsquo; very hard to follow (colourblind tester).</td>
+	    <td>Change selected canal colour to pink.</td>
+	</tr>	
+	<tr>
+	    <td>Usability</td>
+	    <td>3</td>
+	    <td>Clear instructions, user friendly interface</td>
+	    <td>No update, spent time on other bugs instead.</td>
+	</tr>
+	<tr>
+	    <td>Bug</td>
+	    <td>1</td>
+	    <td>Results table doesn&#39;t always update when clicking between pubs.Thought to be 
+	    problem with wiFi signal, but also doesn&#39;t work in areas with better wiFi.</td>
+	    <td>Identified the presence of multigemoetry features in the GeoJSON as cause of 
+	    problem. Updated and simplified line geometry of original shapefile and re&#8208;exported 
+	    to solve issue.</td>
+	</tr>
+	<tr>
+	    <td>Bug</td>
+	    <td>2</td>
+	    <td>Distance from selected canal jumps about when moving along the canal.</td>
+	    <td>Identified ArcGIS export function has an outstanding bug which reverses direction 
+	    of every linestring when exporting to KMZ.  Corrected by flipping all lines before export. 
+	    Some lengths inconsistent due to incorrect turf syntax used, corrected this.</td>
+	</tr>
+	<tr>
+	    <td>Other</td>
+	    <td>1</td>
+	    <td>Would be useful to see at a glance what facilities a pub has in popup.</td>
+	    <td>Additional information added into popup.</td>
+	</tr>
+	<tr>
+	    <td>Other</td>
+	    <td>1</td>
+	    <td>Final map works much better. Easier to select canal, although tend to select on map, 
+	    rather than dropdown. Woks well on mobile device. Format seems mobile friendly. One 
+	    possible update would be to have distances in miles rather than km, or to have it as a 
+	    selectable option as most boaters work in miles.</td>
+	    <td>No action needed.</td>
+	</tr>	<tr>
+	    <td>Other</td>
+	    <td>3</td>
+	    <td>Would be useful to have a child&#8208;friendly filter option.</td>
+	    <td>No action needed.</td>
+	</tr>
+</table>
+<br>
+<a href="#top">Back to Top</a>
+</div>
+</body>
+</html>

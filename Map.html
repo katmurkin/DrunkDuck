@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Drunk Duck</title>
+ <meta charset="UTF-8">
+ <meta name="keywords" content="HTML, CSS, JavaScript, Leaflet, Turf">
+ 
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+	<link rel="stylesheet" type="text/css" href="./canal_split.css" />
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<script src='https://unpkg.com/@turf/turf/turf.min.js'></script>
+
+</head>
+<body>
+<div class="topnav">
+	<a class="active" href=./Map.html">Map</a>&nbsp;
+	<a href="./Concept.html">Concept</a>&nbsp;
+	<a href="./Architecture.html">Architecture</a>&nbsp;
+	<a href="./User.html">User Testing</a>&nbsp;
+	<a href="./Critical_Sum.html">Critical Summary</a>&nbsp;
+</div>
+
+<div class="lowerArea left">
+	<div class="sideArea">
+	<div id="buffers">
+	<div class="centered">
+	<select id="search" onChange="draw();"></select>
+	<br>
+	<br>
+	<span style="cursor:default"><p> Food:
+	<input type="text" name="tristate" id="foodTristate" readonly="true" size="1" value=" " onclick="switch(value.charCodeAt(0)) { 
+	   case 10004: value='&#10006;'; break;  
+	   case 10006: value=' '; break; 
+	   case 32: value='&#10004;'; break;
+           };"/></p>
+	   <p> Real Ale: 
+	<input type="text" name="tristate" id="aleTristate" readonly="true" size="1" value=" " onclick="switch(value.charCodeAt(0)) { 
+	   case 10004: value='&#10006;'; break;  
+	   case 10006: value=' '; break; 
+	   case 32: value='&#10004;'; break;
+	   };"/></p>
+	   <p> Beer Garden: 
+	<input type="text" name="tristate" id="gardenTristate" readonly="true" size="1" value=" " onclick="switch(value.charCodeAt(0)) { 
+	   case 10004: value='&#10006;'; break;  
+	   case 10006: value=' '; break; 
+	   case 32: value='&#10004;'; break;
+	   };"/></p>
+	   <p> Dog Friendly: 
+	<input type="text" name="tristate" id="dogTristate" readonly="true" size="1" value=" " onclick="switch(value.charCodeAt(0)) { 
+	   case 10004: value='&#10006;'; break;  
+	   case 10006: value=' '; break; 
+	   case 32: value='&#10004;'; break; 
+	   };"></p>
+	  </span>
+	<br>
+	<button type="button" onClick="draw();">Filter</button>
+	<br>
+	<span class="popover"><a href="#" data-toggle="popover" title="Help" data-placement="bottom" data-content="Use the filter selection to reduce the number of pubs based on your 
+	requirements. When finished, simply click the filter button to refresh the results table. 
+	Selecting more than one filter option will show those pubs which only have all options listed. The filters are also configured 
+	so that users can select if they don't want a feature included in the list, i.e. no dog friendly pubs to be included. 
+	If no filters are selected, the results table will show all pubs along the canal.">?</a></span>
+	</div>
+	
+<script>$(document).ready(function(){
+        $('[data-toggle="popover"]').popover();
+});
+</script>
+	</div>
+	</div>
+</div>
+<div class="lowerArea right">
+	<div id="buffers">
+
+	    <p>Welcome to the Drunk Duck webmap. This page is designed to allow you to find points of interest 
+	    along the canal network. Currently it includes information about the canal network around Birmingham, 
+	    with points of interest being limited to restaurants and pubs along the canals.</p>
+	    <p>You can search for a canal using the dropdown menu to the left, or by clicking on or near
+	    one of the canals on the map.</p>	
+	        <div id="map"></div>
+	    <a id="map"></a>
+		<script type='text/javascript' src='./basemap.js'></script>
+		<script type = 'text/javascript' src='./layerFunctions.js'></script>
+                    <div id="resultsTable"></div>
+	            <div><a href="#map">Back to Map</a></div>
+		    <p><small>Based upon open source libraries: 
+		    <a href="https://github.com/Leaflet/Leaflet/blob/master/LICENSE">Leaflet.js under the BSD 2-Clause "Simplified"
+		    License</a>; 
+		    <a href="https://github.com/Turfjs/turf/blob/master/LICENSE">Turf.js under the MIT license</a>; 
+		    <a href="https://github.com/twbs/bootstrap/blob/v4.0.0/LICENSE">Bootstrap under the MIT license</a>
+		    and <a href="https://github.com/jquery/jquery/blob/master/LICENSE.txt">JQuery under the MIT license</a></small></p>
+                    
+                </div>
+        </div>	
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Critical Summary</title>
+	<link rel="stylesheet" type="text/css" href="./canal_split.css"/>
+	
+</head>
+<body>
+	<a id="top"></a>
+<div class="topnav">
+	<a href="./Map.html">Map</a>&nbsp;
+	<a href="./Concept.html">Concept</a>&nbsp;
+	<a href="./Architecture.html">Architecture</a>&nbsp;
+	<a href="./User.html">User Testing</a>&nbsp;
+	<a class="active" href="./Critical_Sum.html">Critical Summary</a>&nbsp;
+</div>
+<div class="textbox">
+<h2>Design Document - Critical Summary</h2>
+<br>
+
+<p>The addition of the distance calculation has enabled canals to be selected more easily, however it would be 
+useful to have a maximum distance from the canal within which the selection is triggered, to avoid accidental 
+mouse-clicks from removing previous results. The map is colour-blind friendly, and allows for quick searching 
+of POI along the canal network.<p>
+
+<p>The layout is not fully optimised for mobile usage. The addition of a toggle button on the left-hand window 
+would allow for an increase in the map area on smaller mobile screens. Further updates to POI locations are 
+needed to allow for increased accuracy on the measurement of distances. This would create a more useful dataset, 
+as currently a large number of especially rural pubs on the canal network are not included as they were plotted 
+in the wrong place and excluded from the original spatial selection.<p>
+
+<p>The grouping of canals in the dropdown menu as alphabetical does not provide the best user experience as a 
+number of branches and arms leading off the main canals are present in the first part of the list, many 
+of which do not have POI on. They are also less likely to be selected than the main canals. Grouping branch 
+canals by their associated main canal may improve this aspect, but it was not explored due to time constraints.<p>
+
+<p>The map refresh rate is slow to start with, but not unusable. The addition of more canal networks, more 
+POI, locks and cruising time calculations in any enhanced versions of the webmap are likely to need a PHP 
+server to limit the data being processed by the client and ensure that the map remains usable. Only refreshing 
+part of the map or updating rather than redrawing all features would provide a gain in performance.<p>
+
+<p>Cruising time was not calculated as originally intended since the CRT lock layer was not added due to time 
+constraints. It was decided that the distance to the POI was useful enough to demonstrate proof of concept. 
+Cruising time will always be an estimate as there are likely to be queues for the locks in peak time.<p>
+
+<p> The table below shows potential future updates and their priority.
+
+<table style="width:60%", >
+<caption>Table 1. Future updates and their priority.</caption>
+	<tr>
+	    <th>Future updates</th>
+	    <th>Priority</th>
+	</tr>
+	<tr>
+	    <td>Update lat/long coordinates to pub database</td>
+	    <td>High</td>
+	</tr>
+	<tr>
+	    <td>Toggle button for mobile devices</td>
+	    <td>High</td>
+	</tr>
+	<tr>
+	    <td>Include links to POI in results table</td>
+	    <td>Medium</td>
+	</tr>
+	<tr>
+	    <td>Create PHP database</td>
+	    <td>High</td>
+	</tr>
+	<tr>
+	    <td>Add additional filters/POI</td>
+	    <td>Low</td>
+	</tr>
+	<tr>
+	    <td>Add locks and navigation time	</td>
+	    <td>Low</td>
+	</tr>
+</table>
+
+<br>
+<a href="#top">Back to Top</a>
+</div>
+</body>
+</html>
